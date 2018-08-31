@@ -1,0 +1,62 @@
+[{
+		"poolName": "AntMiner",
+		"url": "https://bitmaintech.com/",
+		"searchStrings": [
+			"AntPool"
+		]
+	},
+	{
+		"poolName": "Discus Fish",
+		"url": "http://f2pool.com/",
+		"searchStrings": [
+			"🐟",
+			"七彩神仙鱼",
+			"Made in China",
+			"Mined by user",
+			"Mined by gumi",
+		  	"Mined by "
+		]
+	},
+	{
+		"poolName": "Batpool",
+		"url": "https://batpool.com",
+		"searchStrings": [
+			"BATPOOL"
+		]
+	},
+	{
+		"poolName": "BW",
+		"url": "https://www.bw.com",
+		"searchStrings": [
+			"/BW/"
+		]
+	},
+	{
+		"poolName": "PTX.TOP",
+		"url": "http://",
+		"searchStrings": [
+			"PTX.TOP"
+		]
+	},
+	{
+	  	"poolName": "PitcoinPool",
+	  	"url": "https://pitcoinpool.org",
+	  	"searchStrings": [
+		  	"/LP/"
+		]
+	},
+	{
+	  	"poolName": "ViaPTX",
+	  	"url": "https://www.vialtc.com/",
+	  	"searchStrings": [
+		  	"/ViaPTX/"
+		]
+	},
+	{
+		"poolName": "TBDice",
+		"url": "http://ltc.tbdice.org/",
+		"searchStrings": [
+			"TBDice"
+		]
+	}
+]
