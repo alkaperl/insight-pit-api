@@ -1,8 +1,8 @@
 {
-  "name": "insight-lite-api",
+  "name": "insight-pit-api",
   "description": "A Pitcoin blockchain REST and web socket API service for Pitcore Node.",
   "version": "0.4.4",
-  "repository": "git://github.com/alkaperl/insight-lite-api.git",
+  "repository": "git://github.com/alkaperl/insight-pit-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,9 +38,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/alkaperl/insight-lite-api/issues"
+    "url": "https://github.com/alkaperl/insight-pit-api/issues"
   },
-  "homepage": "https://github.com/alkaperl/insight-lite-api",
+  "homepage": "https://github.com/alkaperl/insight-pit-api",
   "license": "MIT",
   "keywords": [
     "insight",
